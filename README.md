@@ -482,9 +482,9 @@ Generating professional product descriptions for e-commerce (Wireless Bluetooth 
 
 For questions or discussions about this assignment:
 
-- **GitHub:** [https://github.com/Ahmed-KHI]
-- **Email:** [m.muhammad.ahmed115@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209]
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmed--KHI-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ahmed-KHI)
+[![Email](https://img.shields.io/badge/Email-m.muhammad.ahmed115%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirza%20Muhammad%20Ahmed-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
 
 ---
 
